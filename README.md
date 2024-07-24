@@ -1,4 +1,4 @@
-# OceanGuardian: Predictive Analytics for Sustainable Fishing
+# SeaGuard: Predictive Analytics for Sustainable Fishing
 
 OceanGuardian is an innovative open-source project that leverages advanced predictive analytics to combat overfishing and promote sustainable marine ecosystems. By integrating real-time satellite imagery, historical catch data, and oceanographic information, OceanGuardian provides dynamic and precise predictions of safe fishing areas.
 
